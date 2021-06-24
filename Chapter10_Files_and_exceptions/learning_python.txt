@@ -1,0 +1,3 @@
+In Python you can add strings in the list.
+In Python you can compute very complex functions.
+In Python you can create separate classes and store different pieces of the code in there. 
